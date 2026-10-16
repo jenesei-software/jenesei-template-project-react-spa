@@ -2,6 +2,11 @@
 
 Guidance for AI coding agents working in this repository.
 
+This repository is a React SPA application template (client rendering, static files).
+
+The server-rendered sibling template is `jenesei-template-project-react-ssr`
+(TanStack Start + Paraglide).
+
 ## Project overview
 
 This repository is a React application template.

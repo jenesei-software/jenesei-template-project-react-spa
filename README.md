@@ -1,6 +1,10 @@
-# Jenesei Template for React Project
+# Jenesei Template for React SPA
 
-A production-ready React application template used as a starting point for Jenesei frontend projects.
+A production-ready React SPA template used as a starting point for Jenesei frontend projects.
+
+The SPA variant renders in the browser and ships as static files. The server-rendered
+variant on TanStack Start with Paraglide lives in
+[`jenesei-template-project-react-ssr`](https://github.com/jenesei-software/jenesei-template-project-react-ssr).
 
 The template includes routing, data fetching, localization, PWA support, environment-based builds, app metadata injection, icon generation, robots.txt handling, and a strict formatting/linting setup.
 
@@ -24,7 +28,7 @@ The template includes routing, data fetching, localization, PWA support, environ
 
 ## Requirements
 
-- Node.js `22.18.0`
+- Node.js `24.8.0`
 - Yarn
 
 Use the Node version from `.nvmrc`:
