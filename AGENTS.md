@@ -44,31 +44,26 @@ Development:
 
 ```bash
 npm run start
-npm run start:dev
-npm run start:stage
-npm run start:prod
-````
+```
 
 Build:
 
 ```bash
-npm run build:dev
-npm run build:stage
-npm run build:prod
+npm run build
 ```
 
 Validation:
 
 ```bash
-npm run biome:lint:check
-npm run biome:format:check
+npm run biome:lint
+npm run biome:format
 ```
 
 Minimum validation before completing work:
 
 ```bash
-npm run biome:lint:check
-npm run build:dev
+npm run check
+npm run build
 ```
 
 ---

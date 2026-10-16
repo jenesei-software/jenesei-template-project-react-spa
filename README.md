@@ -4,6 +4,10 @@ A production-ready React application template used as a starting point for Jenes
 
 The template includes routing, data fetching, localization, PWA support, environment-based builds, app metadata injection, icon generation, robots.txt handling, and a strict formatting/linting setup.
 
+## 🚀 ACTUAL VERSIONS
+
+- `0.0.3`
+
 ## Stack
 
 - React 19
